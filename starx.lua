@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fgfhgsd04-coder/starhub/refs/heads/main/hub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/platinww/CrustyMain/refs/heads/main/Escape-Tsunami-For-Brainrots/Escape-Tsunami-For-Brainrots.lua"))()
